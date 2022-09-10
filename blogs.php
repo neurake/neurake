@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-         <h1>Blogs are comming soon</h1>
+         <h1>Blogs are </h1>
 </body>
 </html>
