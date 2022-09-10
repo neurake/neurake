@@ -8,7 +8,9 @@
 </head>
 <body>
 
-         <h1>Blogs are hi</h1>
->>>>>>> bc14cd8a13d624fc6308674eb9b8f9261e945a0f
+         <h2>this is blog heading</h2>
+         <p>this is blog paragraph along with images</p>
+         
+
 </body>
 </html>
