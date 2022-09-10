@@ -151,10 +151,10 @@
 	 <h1>Tech Courses</h1>
 	 </div>
 	 <div class="content">
-	 <h3>Coures That Makes You Sucessed  !</h3>
+	 <h3>Coures That Makes You succeed  !</h3>
 	 <p>Learn the variety of Tech Courses like Web Development, Android Development, Databases etc,  That makes you sucessed in this Digital World. </p>
      <div class="button">
-	 <a href="courses.php">Start Learning</a>
+	 <a href="courses.php">Start Learning Now</a>
 	 </div>
 	 </div>
 	 <div class="social">
