@@ -9,7 +9,7 @@
 <body>
 
          <h2>this is blog heading</h2>
-         <p>this  blog paragraph along with images</p>
+         <p>this is the  blog paragraph along with images</p>
          
 
 </body>
