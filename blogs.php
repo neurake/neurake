@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-         <h1>Blogs are comming soon we are working on it</h1>
+
+         <h1>Blogs are comming soon we are working on it soon it will be live
+            
+         </h1>
+
+        
 </body>
 </html>
