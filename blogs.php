@@ -8,5 +8,6 @@
 </head>
 <body>
          <h1>Blogs are hi</h1>
+         <h1>tHIS IS IS THE NEW WEBSITE</h1>
 </body>
 </html>
