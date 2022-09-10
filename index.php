@@ -243,9 +243,10 @@
 <Footer>
        <div class="footerdiv">                                                                                    <!-------------------------Footer Div----------------------->
                              <center><img src="assets/logo.png"  id="footerlogo"></center><br><br>
-                             <center><input type="text" id="subfield" placeholder="enter your email address...."><button id="subbtn">SUBSCRIBE</button></center><br><br>
-                             <center><h1><i class="fa-brands fa-youtube" class="smi" style="color:white"></i> <i class="fa-brands fa-facebook"style="color:white" ></i> <i class="fa-brands fa-instagram" style="color:white" ></i> <i class="fa-brands fa-twitter" style="color:white"></i> <i class="fa-brands fa-linkedin" style="color:white" ></i></h1></center><br><br><br>
-                             <center><h2><i class="fa-solid fa-copyright"></i>Neurake.com</h2></center>
+                             <center><input type="text" id="subfield" placeholder="enter your email address...."><input type="button" value="submit"> </center><br><br>
+                             <center><h1><i class="fa-brands fa-youtube" class="smi" style="color:white">&nbsp;&nbsp;
+                            </i> <i class="fa-brands fa-facebook"style="color:white" >&nbsp;&nbsp;</i> <i class="fa-brands fa-instagram" style="color:white" >&nbsp;&nbsp;</i> <i class="fa-brands fa-twitter" style="color:white">&nbsp;&nbsp;</i> <i class="fa-brands fa-linkedin" style="color:white" >&nbsp;&nbsp;</i></h1></center><br><br><br>
+                             <center><h2  style="color:white" ><i class="fa-solid fa-copyright"></i>&nbsp;&nbsp;Neurake.com</h2></center>
        </div>
        <div style="background:orange; width:100%; height:4px;"></div>
        <div style="background:blue; width:100%; height:4px;"></div>

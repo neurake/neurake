@@ -11,6 +11,6 @@
          <h2>this is blog heading</h2>
          <p>this is the only blog paragraph along with images</p>
          
-
+         
 </body>
 </html>
