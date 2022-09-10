@@ -8,10 +8,7 @@
 </head>
 <body>
 
-         <h1>Blogs are comming soon we are working on it soon it will be live
-            
-         </h1>
-
-        
+         <h1>Blogs are hi</h1>
+>>>>>>> bc14cd8a13d624fc6308674eb9b8f9261e945a0f
 </body>
 </html>
