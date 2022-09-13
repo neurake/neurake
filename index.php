@@ -148,7 +148,7 @@
 	 <div class="course-container">
 	 <div class="content-section">
 	 <div class="title">
-	 <h1>Tech Courses</h1>
+	 <h1>Blogs</h1>
 	 </div>
 	 <div class="content">
 	 <h3>Coures That Makes You succeed  !</h3>
